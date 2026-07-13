@@ -1,1 +1,17 @@
-
+[
+  {
+    "id": "apk-flstudiomobile",
+    "title": "FL Studio Mobile Premium",
+    "uploaded": "2026-07-13",
+    "status": "working",
+    "gradient": "linear-gradient(135deg, #FF9900 0%, #B33600 100%)",
+    "cardImage": "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/FLStudio/FLStudioIconCard.png",
+    "screenshots": [
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/FLStudio/FLStudioIMG1.png",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/FLStudio/FLStudioIMG2.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/FLStudio/FLStudioIMG3.jpg"
+     ],
+     "description": "FL Studio Mobile Premium is the all-in-one flagship package for producers, beatmakers, and audio engineers. It strips away all limitations, providing the entire native Image-Line plugin ecosystem under one roof.",
+     "downloadUrl": "https://dl.apkvision.org/fl-studio-mobile/fl-studio-mobile-v4.10.7-PREMIUM-apkvision.apk"
+  },
+]
