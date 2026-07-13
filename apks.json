@@ -1,32 +1,17 @@
 [
   {
-    "id": "apk-spotify",
-    "title": "Spotify Premium Mod",
+    "id": "apk-flstudiomobile",
+    "title": "FL Studio Mobile Premium",
     "uploaded": "2026-07-13",
     "status": "working",
-    "gradient": "linear-gradient(135deg, #1DB954 0%, #191414 100%)",
-    "cardImage": "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Spotify/SpotifyIconCard.png",
+    "gradient": "linear-gradient(135deg, #FF9900 0%, #B33600 100%)",
+    "cardImage": "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/FLStudio/FLStudioIconCard.png",
     "screenshots": [
-       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Spotify/SpotifyIMG1.png",
-       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Spotify/SpotifyIMG2.png",
-       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Spotify/SpotifyIMG3.png"
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/FLStudio/FLStudioIMG1.png",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/FLStudio/FLStudioIMG2.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/FLStudio/FLStudioIMG3.jpg"
      ],
-     "description": "A modified version of the Spotify app for Android devices that enables ad-free music listening and unlimited skips.",
-     "downloadUrl": "https://example.com/downloads/spotify-premium.apk"
+     "description": "FL Studio Mobile Premium is the all-in-one flagship package for producers, beatmakers, and audio engineers. It strips away all limitations, providing the entire native Image-Line plugin ecosystem under one roof.",
+     "downloadUrl": "https://dl.apkvision.org/fl-studio-mobile/fl-studio-mobile-v4.10.7-PREMIUM-apkvision.apk"
   },
-  {
-    "id": "apk-instagram",
-    "title": "Instagram Rocket APK",
-    "uploaded": "2026-07-13",
-    "status": "working",
-    "gradient": "linear-gradient(135deg, #833AB4 0%, #FD1D1D 100%)",
-    "cardImage": "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Instagram/InstagramIconCard.png",
-    "screenshots": [
-       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Instagram/InstaIMG1.png",
-       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Instagram/InstaIMG2.png",
-       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Instagram/InstaIMG3.png"
-     ],
-     "description": "An enhanced version of Instagram for Android, allowing direct downloads of photos, videos, and stories to your device storage.",
-     "downloadUrl": "https://example.com/downloads/instagram-rocket.apk"
-  }
 ]
