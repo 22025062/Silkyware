@@ -20,7 +20,7 @@
        "Author of the build: Warez_Down",
        "Platform: Windows x64",
        "Interface language: Multilingual (no Russian)",
-     ],
+     ]
   },
   {
     "id": "sw-photoshop",
@@ -43,7 +43,7 @@
        "Author of the build: m0nkrus",
        "Platform: Windows x64",
        "Interface language: Multilingual",
-     ],
+     ]
   },
   {
     "id": "sw-aftereffects",
@@ -66,6 +66,6 @@
        "Author of the build: m0nkrus",
        "Platform: Windows x64",
        "Interface language: Multilingual",
-     ],
+     ]
   }
 ]
