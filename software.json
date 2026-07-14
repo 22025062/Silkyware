@@ -94,5 +94,53 @@
        "Platform: Windows x64",
        "Interface language: Multilingual",
      ]
-  }
+  },
+  {
+    "id": "sw-animate",
+    "title": "Adobe Animate 2024 v24.0.14",
+    "uploaded": "2026-07-14",
+    "status": "working",
+    "gradient": "linear-gradient(135deg, #4285F4 0%, #1e3d73 100%)",
+    "cardImage": "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Animate/AnimateIconCard.png",
+    "screenshots": [
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Animate/AnimateIMG1.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Animate/AnimateIMG2.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Animate/AnimateIMG3.jpg"
+     ],
+     "description": "Adobe Animate 2024 is used to design interactive vector animations for games, web apps, and television. Bring cartoons and banner ads to life with powerful rigging tools and seamless multi-platform publishing.",
+     "downloadUrl": "https://file.garden/alO_YJkI3zvAtIlT/Adobe%20Animate%202024%20v24.0.14.torrent",
+     "torrent": "true",
+     "moreInfo": [
+       "Year of manufacture: 2026",
+       "Version: 24.0.14.24",
+       "Developer: Adobe",
+       "Author of the build: m0nkrus",
+       "Platform: Windows x64",
+       "Interface language: Multilingual",
+     ]
+   },
+    {
+    "id": "sw-substance",
+    "title": "Adobe Substance 3D Designer 2026 v16.0.4",
+    "uploaded": "2026-07-14",
+    "status": "working",
+    "gradient": "linear-gradient(135deg, #4285F4 0%, #1e3d73 100%)",
+    "cardImage": "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Substance/SubstanceIconCard.png",
+    "screenshots": [
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Substance/SubstanceIMG1.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Substance/SubstanceIMG2.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Substance/SubstanceIMG3.jpg"
+     ],
+     "description": "Adobe Substance 3D Designer 2026 is the industry-standard suite for 3D digital art, material authoring, and texturing. Featuring the 2026 editions of Painter, Designer, and Sampler, this ecosystem shifts production into high gear with a universal OpenPBR material model, next-gen 3D Shape Splattering, and seamless one-click integrations with tools like ZBrush.",
+     "downloadUrl": "https://file.garden/alO_YJkI3zvAtIlT/Adobe%20Substance%203D%20Designer%20v16.0.4.torrent",
+     "torrent": "true",
+     "moreInfo": [
+       "Year of manufacture: 2026",
+       "Version: 16.0.4.11309",
+       "Developer: Adobe",
+       "Author of the build: m0nkrus",
+       "Platform: Windows x64",
+       "Interface language: Multilingual",
+     ]
+   }
 ]
