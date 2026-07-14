@@ -70,5 +70,29 @@
        "Platform: Windows x64",
        "Interface language: Multilingual",
      ]
+  },
+  {
+    "id": "sw-bridge",
+    "title": "Adobe Bridge 2026 v27.8",
+    "uploaded": "2026-07-14",
+    "status": "working",
+    "gradient": "linear-gradient(135deg, #4285F4 0%, #1e3d73 100%)",
+    "cardImage": "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Bridge/BridgeIconCard.png",
+    "screenshots": [
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Bridge/BridgeIMG1.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Bridge/BridgeIMG2.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Bridge/BridgeIMG3.jpg"
+     ],
+     "description": "Adobe Bridge 2026 is the ultimate free digital asset manager. Effortlessly preview, organize, edit metadata, and batch-process your creative files—from photos and vectors to audio and video.",
+     "downloadUrl": "https://file.garden/alO_YJkI3zvAtIlT/Adobe%20Bridge%202026%20v16.0.5.torrent",
+     "torrent": "true",
+     "moreInfo": [
+       "Year of manufacture: 2026",
+       "Version: 16.0.5.19",
+       "Developer: Adobe",
+       "Author of the build: m0nkrus",
+       "Platform: Windows x64",
+       "Interface language: Multilingual",
+     ]
   }
 ]
