@@ -119,7 +119,7 @@
        "Interface language: Multilingual",
      ]
    },
-    {
+   {
     "id": "sw-substance",
     "title": "Adobe Substance 3D Designer 2026 v16.0.4",
     "uploaded": "2026-07-14",
@@ -137,6 +137,30 @@
      "moreInfo": [
        "Year of manufacture: 2026",
        "Version: 16.0.4.11309",
+       "Developer: Adobe",
+       "Author of the build: m0nkrus",
+       "Platform: Windows x64",
+       "Interface language: Multilingual",
+     ]
+   },
+   {
+    "id": "sw-illustrator",
+    "title": "Adobe Illustrator 2026 v30.6",
+    "uploaded": "2026-07-14",
+    "status": "working",
+    "gradient": "linear-gradient(135deg, #4285F4 0%, #1e3d73 100%)",
+    "cardImage": "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Illustrator/IllustratorIconCard.png",
+    "screenshots": [
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Illustrator/IllustratorIMG1.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Illustrator/IllustratorIMG2.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/Illustrator/IllustratorIMG3.jpg"
+     ],
+     "description": "Adobe Illustrator 2026 is the industry-standard vector graphics editor, empowering designers to create scalable logos, typography, and illustrations. This release accelerates workflows with advanced AI tools like Generative Expand, smarter perceptual gradients, a new Vector Assistant, and seamless image editing capabilities right inside the app.",
+     "downloadUrl": "https://file.garden/alO_YJkI3zvAtIlT/Adobe%20Illustrator%202026%20v30.6.torrent",
+     "torrent": "true",
+     "moreInfo": [
+       "Year of manufacture: 2026",
+       "Version: 30.6.0.109",
        "Developer: Adobe",
        "Author of the build: m0nkrus",
        "Platform: Windows x64",
