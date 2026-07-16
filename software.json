@@ -166,5 +166,29 @@
        "Platform: Windows x64",
        "Interface language: Multilingual",
      ]
+   },
+   {
+    "id": "sw-autodeskinventorpro",
+    "title": "Autodesk Inventor Pro 2027.1",
+    "uploaded": "2026-07-16",
+    "status": "working",
+    "gradient": "linear-gradient(135deg, #4285F4 0%, #1e3d73 100%)",
+    "cardImage": "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/AutodeskInventorPro/AutodeskInventorProIconCard.png",
+    "screenshots": [
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/AutodeskInventorPro/AutodeskInventorProIMG1.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/AutodeskInventorPro/AutodeskInventorProIMG2.jpg",
+       "https://raw.githubusercontent.com/22025062/Silkyware/refs/heads/main/Images/AutodeskInventorPro/AutodeskInventorProIMG3.jpg"
+    ],
+    "description": "Autodesk Inventor Professional 2027.1 is the premier 3D CAD software for mechanical design, simulation, and documentation. It introduces AI-driven guidance, drag-and-drop iLogic Codeblocks for design automation, modeless parameters for real-time model updates, and enhanced workflows for assembly mirroring and slot creation.",
+    "downloadUrl": "https://file.garden/alO_YJkI3zvAtIlT/Autodesk%20Inventor%20Pro%202027.1.torrent",
+    "torrent": "true",
+    "moreInfo": [
+      "Year of manufacture: 2026",
+      "Version: 2027.1 build 270",
+      "Developer: Adobe",
+      "Author of the build: m0nkrus",
+      "Platform: Windows x64",
+      "Interface language: RUS-ENG",
+     ]
    }
 ]
